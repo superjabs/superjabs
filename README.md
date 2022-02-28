@@ -7,9 +7,6 @@ I am Alfian , a Web Developer and student based on Indonesia. Every day I am jus
 
 Not just coding, I also took care of what I wrote. Writing clean code and implement design patterns make me comfortable. Now I focused on learning about the quality of software with Selenium and learning Flutter for Android development.
 
-**superjabs/superjabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
