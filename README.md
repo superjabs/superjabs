@@ -1,6 +1,10 @@
 <h1 align="left">Hi 👋, I'm Al Fiansyah</h1>
 <h3 align="left">Front-End Web Developer</h3>
 
+<h5>I am Alfiansyah (you can call me "al"), a Web Developer and student based on Indonesia. Every day I am just writing lines of code. Bugs and errors are my best friend. I am curious to learn something new, especially web technology and design. I fall in love with JavaScript and TypeScript.</h5>
+<br>
+<h5>Not just coding, I also took care of what I wrote. Writing clean code and implement design patterns make me comfortable. Now I focused on learning about the quality of software with Selenium and learning Flutter for Android development.</h5>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
