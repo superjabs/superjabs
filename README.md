@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Al Fiansyah</h1>
 <h2 align="left">Front-End Web Developer 👨‍💻 </h2>
 
-<h5>I am Alfiansyah (you can call me "al"), a Web Developer and student based on Indonesia. Every day I am just writing lines of code. Bugs and errors are my best friend. I am curious to learn something new, especially web technology and design. I fall in love with JavaScript and TypeScript.</h5>
+<h5>I am Alfiansyah (you can call me "al"), a Web Developer and student based on Indonesia. Every day I am just writing lines of code. Bugs and errors are my best friend. I am curious to learn something new, especially web technology and design.</h5>
 
 
 <h3 align="left">Languages and Tools:</h3>
