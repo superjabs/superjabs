@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Al Fiansyah</h1>
 <h3 align="center">Front-End Web Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+
 
 - 👨‍💻 All of my projects are available at [https://superjabs.github.io/](https://superjabs.github.io/)
 
@@ -7,7 +14,7 @@
 
 - 📫 How to reach me **alfian@dev.id**
 
-- ⚡ Fun fact **feel good**
+- ⚡ Fun fact **always hungry XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
