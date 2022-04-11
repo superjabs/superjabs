@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Al Fiansyah</h1>
-<h3 align="center">Front-End Web Developer</h3>
+<h1>Hi 👋, I'm Al Fiansyah</h1>
 
-<br/><br/>
-- 👨‍💻 All of my projects are available at [https://superjabs.github.io/](https://superjabs.github.io/)
+<p>I'm a Fullstack Web Developer and UI UX Designer</p>
+<p>Currently spending free time learning PHP, Bootsrap, React Js</p>
 
-- 💬 Ask me about **HTML, CSS, TAILWIND**
-
-- 📫 How to reach me **alfian@dev.id**
-
-- ⚡ Fun fact **always hungry XD**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +13,4 @@
 <a href="https://dribbble.com/al fiansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="al fiansyah" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tools:</h3>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
